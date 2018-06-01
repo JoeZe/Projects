@@ -1,0 +1,25 @@
+Account Type: Admin | Username: joe
+Insert | AMAT | Applied Materials Inc | 55.44 | -3.03 | -5.18% |   | http://money.cnn.com/quote/quote.html?symb=AMAT | 04/12/2018
+Insert | EA | Electronic Arts Inc | 119.98 | -6.46 | -5.11% |   | http://money.cnn.com/quote/quote.html?symb=EA | 04/12/2018
+Account Type: Admin | Username: joe
+Insert | GE | General Electric Co | 13.44 | +0.55 | +4.27% |   | http://money.cnn.com/quote/quote.html?symb=GE | 04/13/2018
+Insert | BAC | Bank of America Corp | 29.52 | -0.92 | -3.02% |   | http://money.cnn.com/quote/quote.html?symb=BAC | 04/13/2018
+Insert | FB | Facebook Inc | 152.22 | -7.84 | -4.90% |   | http://money.cnn.com/quote/quote.html?symb=FB | 04/13/2018
+Insert | AMD | Advanced Micro Devices Inc | 10.00 | -0.44 | -4.21% |   | http://money.cnn.com/quote/quote.html?symb=AMD | 04/13/2018
+Insert | MU | Micron Technology Inc | 52.40 | -3.16 | -5.69% |   | http://money.cnn.com/quote/quote.html?symb=MU | 04/13/2018
+Insert | MSFT | Microsoft Corp | 89.47 | -4.31 | -4.60% |   | http://money.cnn.com/quote/quote.html?symb=MSFT | 04/13/2018
+Insert | AAPL | Apple Inc | 168.34 | -4.43 | -2.56% |   | http://money.cnn.com/quote/quote.html?symb=AAPL | 04/13/2018
+Insert | F | Ford Motor Co | 10.83 | 0.00 | 0.00% |   | http://money.cnn.com/quote/quote.html?symb=F | 04/13/2018
+Insert | INTC | Intel Corp | 51.19 | -1.29 | -2.46% |   | http://money.cnn.com/quote/quote.html?symb=INTC | 04/13/2018
+Insert | NVDA | NVIDIA Corp | 225.52 | -18.96 | -7.76% |   | http://money.cnn.com/quote/quote.html?symb=NVDA | 04/13/2018
+Insert | GE | General Electric Co | 13.44 | +0.55 | +4.27% |   | http://money.cnn.com/quote/quote.html?symb=GE | 04/13/2018
+Insert | PCG | PG&E Corp | 43.94 | +1.07 | +2.50% |   | http://money.cnn.com/quote/quote.html?symb=PCG | 04/13/2018
+Insert | DRE | Duke Realty Corp | 26.03 | +0.61 | +2.40% |   | http://money.cnn.com/quote/quote.html?symb=DRE | 04/13/2018
+Insert | XEL | Xcel Energy Inc | 45.11 | +0.97 | +2.20% |   | http://money.cnn.com/quote/quote.html?symb=XEL | 04/13/2018
+Insert | WELL | Welltower Inc | 53.28 | +1.14 | +2.19% |   | http://money.cnn.com/quote/quote.html?symb=WELL | 04/13/2018
+Insert | HCP | HCP Inc | 22.79 | +0.48 | +2.15% |   | http://money.cnn.com/quote/quote.html?symb=HCP | 04/13/2018
+Insert | VIAB | Viacom Inc | 30.73 | +0.64 | +2.13% |   | http://money.cnn.com/quote/quote.html?symb=VIAB | 04/13/2018
+Insert | CMS | CMS Energy Corp | 44.75 | +0.93 | +2.12% |   | http://money.cnn.com/quote/quote.html?symb=CMS | 04/13/2018
+Insert | IRM | Iron Mountain Inc | 31.90 | +0.63 | +2.01% |   | http://money.cnn.com/quote/quote.html?symb=IRM | 04/13/2018
+
+

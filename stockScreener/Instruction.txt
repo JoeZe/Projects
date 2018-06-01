@@ -1,0 +1,29 @@
+Instructions to run this project
+
+***Needs mail.jar and mysql-connector-java-5.1.45-bin.jar to save it in the lib folder in order to compile and run***
+
+First, open a command Prompt on your computer and then use cd ..[location you store the folder] to change to location that contains the all .java files.
+use javac *.java to compile all files.
+to compile: javac -cp "lib\*" *.java 
+type to following to run:
+
+//read the text in the file 
+java -cp "lib\*"; StockScreener -i InFile.txt
+or 
+//read the text in the file and store in the hashmap then print the hashmap
+java -cp "lib\*"; StockScreener -o OutFile.txt
+or
+//choose which data storage to use
+java -cp "lib\*"; StockScreener [-h db|ht|bo] 
+or 
+//get help
+java -cp "lib\*"; StockScreener -help
+or
+//read the file and parse the important data about the stock and store it in the data
+java -cp "lib\*"; StockScreener -h ht -i datahotstocks.txt
+or
+//read the file and write it to the file without start the GUI
+java -cp "lib\*"; StockScreener -p InFile.txt OutFile.txt
+or
+//read the file and write it to the file start the GUI
+java -cp "lib\*"; StockScreener -i InFile.txt -o OutFile.txt  

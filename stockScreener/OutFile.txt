@@ -1,0 +1,21 @@
+http://money.cnn.com/data/hotstocks:
+   Content Type: text/html; charset=utf-8
+   Content Length: -1
+   Last Modified: Wed Dec 31 19:00:00 EST 1969
+   Expiration: 0
+   Content Encoding: null
+   Line: 1255
+http://money.cnn.com/quote/quote.html?symb=MU:
+   Content Type: text/html;charset=UTF-8
+   Content Length: -1
+   Last Modified: Wed Dec 31 19:00:00 EST 1969
+   Expiration: 1524620109000
+   Content Encoding: null
+   Line: 725
+http://money.cnn.com/quote/quote.html?symb=BAC:
+   Content Type: text/html;charset=UTF-8
+   Content Length: -1
+   Last Modified: Wed Dec 31 19:00:00 EST 1969
+   Expiration: 1524620084000
+   Content Encoding: null
+   Line: 725
